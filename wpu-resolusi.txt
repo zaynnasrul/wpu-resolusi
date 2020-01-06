@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Konsisten untuk belajar web
 - membuat codingan dengan PHP
 - membuat form diskusi
-- membuat buku
 - kolabrorasi lebih banyak expert
+- membuat vlog
